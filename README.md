@@ -1,4 +1,4 @@
-"Aug 26: animalExample"
+"Aug 26: animalsExample"
 
 "Earlier: Sync , MySQL Files" 
 
