@@ -1,3 +1,3 @@
-"Aug 26: animalExample" 
-"Earlier: Sync , MySQLproj" 
+"Aug 26: animalExample/n" 
+"Earlier: Sync , MySQL Files/n" 
 # jump19
