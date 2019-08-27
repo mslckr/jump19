@@ -1,4 +1,4 @@
-"Aug 27: animal, enmeyExample, exampleOne"
+"Aug 27: animal, enemyExample, exampleOne"
 
 "Aug 26: animalsExample"
 
